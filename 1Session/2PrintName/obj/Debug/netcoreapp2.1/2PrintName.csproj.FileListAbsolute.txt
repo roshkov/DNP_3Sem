@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\1Session\2PrintName\bin\Debug\netcoreapp2.1\2PrintName.deps.json
+C:\Users\User\DNP3sem\1Session\2PrintName\bin\Debug\netcoreapp2.1\2PrintName.runtimeconfig.json
+C:\Users\User\DNP3sem\1Session\2PrintName\bin\Debug\netcoreapp2.1\2PrintName.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\1Session\2PrintName\bin\Debug\netcoreapp2.1\2PrintName.dll
+C:\Users\User\DNP3sem\1Session\2PrintName\bin\Debug\netcoreapp2.1\2PrintName.pdb
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.AssemblyInfo.cs
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.dll
+C:\Users\User\DNP3sem\1Session\2PrintName\obj\Debug\netcoreapp2.1\2PrintName.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.AssemblyInfo.cs
+C:\Users\User\DNP3sem\1Session\4EvenUneven\bin\Debug\netcoreapp2.1\4EvenUneven.deps.json
+C:\Users\User\DNP3sem\1Session\4EvenUneven\bin\Debug\netcoreapp2.1\4EvenUneven.runtimeconfig.json
+C:\Users\User\DNP3sem\1Session\4EvenUneven\bin\Debug\netcoreapp2.1\4EvenUneven.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\1Session\4EvenUneven\bin\Debug\netcoreapp2.1\4EvenUneven.dll
+C:\Users\User\DNP3sem\1Session\4EvenUneven\bin\Debug\netcoreapp2.1\4EvenUneven.pdb
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.dll
+C:\Users\User\DNP3sem\1Session\4EvenUneven\obj\Debug\netcoreapp2.1\4EvenUneven.pdb
