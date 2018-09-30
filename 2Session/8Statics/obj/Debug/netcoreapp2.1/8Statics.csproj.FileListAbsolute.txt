@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\2Session\8Statics\bin\Debug\netcoreapp2.1\8Statics.deps.json
+C:\Users\User\DNP3sem\2Session\8Statics\bin\Debug\netcoreapp2.1\8Statics.runtimeconfig.json
+C:\Users\User\DNP3sem\2Session\8Statics\bin\Debug\netcoreapp2.1\8Statics.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\2Session\8Statics\bin\Debug\netcoreapp2.1\8Statics.dll
+C:\Users\User\DNP3sem\2Session\8Statics\bin\Debug\netcoreapp2.1\8Statics.pdb
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.AssemblyInfo.cs
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.dll
+C:\Users\User\DNP3sem\2Session\8Statics\obj\Debug\netcoreapp2.1\8Statics.pdb

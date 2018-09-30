@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\bin\Debug\netcoreapp2.1\2InterfacesGen.deps.json
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\bin\Debug\netcoreapp2.1\2InterfacesGen.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\bin\Debug\netcoreapp2.1\2InterfacesGen.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\bin\Debug\netcoreapp2.1\2InterfacesGen.dll
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\bin\Debug\netcoreapp2.1\2InterfacesGen.pdb
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.dll
+C:\Users\User\DNP3sem\3Session\2InterfacesGen\obj\Debug\netcoreapp2.1\2InterfacesGen.pdb

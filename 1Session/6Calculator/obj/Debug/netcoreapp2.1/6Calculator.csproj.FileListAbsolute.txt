@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\1Session\6Calculator\bin\Debug\netcoreapp2.1\6Calculator.deps.json
+C:\Users\User\DNP3sem\1Session\6Calculator\bin\Debug\netcoreapp2.1\6Calculator.runtimeconfig.json
+C:\Users\User\DNP3sem\1Session\6Calculator\bin\Debug\netcoreapp2.1\6Calculator.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\1Session\6Calculator\bin\Debug\netcoreapp2.1\6Calculator.dll
+C:\Users\User\DNP3sem\1Session\6Calculator\bin\Debug\netcoreapp2.1\6Calculator.pdb
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.AssemblyInfo.cs
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.dll
+C:\Users\User\DNP3sem\1Session\6Calculator\obj\Debug\netcoreapp2.1\6Calculator.pdb

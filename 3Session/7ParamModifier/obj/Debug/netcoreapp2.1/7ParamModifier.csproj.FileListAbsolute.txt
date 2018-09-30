@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\7ParamModifier\bin\Debug\netcoreapp2.1\7ParamModifier.deps.json
+C:\Users\User\DNP3sem\3Session\7ParamModifier\bin\Debug\netcoreapp2.1\7ParamModifier.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\7ParamModifier\bin\Debug\netcoreapp2.1\7ParamModifier.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\7ParamModifier\bin\Debug\netcoreapp2.1\7ParamModifier.dll
+C:\Users\User\DNP3sem\3Session\7ParamModifier\bin\Debug\netcoreapp2.1\7ParamModifier.pdb
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.dll
+C:\Users\User\DNP3sem\3Session\7ParamModifier\obj\Debug\netcoreapp2.1\7ParamModifier.pdb

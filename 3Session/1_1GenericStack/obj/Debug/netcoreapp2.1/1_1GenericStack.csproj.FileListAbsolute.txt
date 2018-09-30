@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\bin\Debug\netcoreapp2.1\1_1GenericStack.deps.json
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\bin\Debug\netcoreapp2.1\1_1GenericStack.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\bin\Debug\netcoreapp2.1\1_1GenericStack.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\bin\Debug\netcoreapp2.1\1_1GenericStack.dll
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\bin\Debug\netcoreapp2.1\1_1GenericStack.pdb
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.dll
+C:\Users\User\DNP3sem\3Session\1_1GenericStack\obj\Debug\netcoreapp2.1\1_1GenericStack.pdb

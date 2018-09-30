@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\bin\Debug\netcoreapp2.1\6TernaryOperator.deps.json
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\bin\Debug\netcoreapp2.1\6TernaryOperator.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\bin\Debug\netcoreapp2.1\6TernaryOperator.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\bin\Debug\netcoreapp2.1\6TernaryOperator.dll
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\bin\Debug\netcoreapp2.1\6TernaryOperator.pdb
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.dll
+C:\Users\User\DNP3sem\3Session\6TernaryOperator\obj\Debug\netcoreapp2.1\6TernaryOperator.pdb

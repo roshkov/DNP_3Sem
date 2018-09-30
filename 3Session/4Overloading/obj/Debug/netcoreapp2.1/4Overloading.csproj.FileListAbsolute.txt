@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\4Overloading\bin\Debug\netcoreapp2.1\4Overloading.deps.json
+C:\Users\User\DNP3sem\3Session\4Overloading\bin\Debug\netcoreapp2.1\4Overloading.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\4Overloading\bin\Debug\netcoreapp2.1\4Overloading.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\4Overloading\bin\Debug\netcoreapp2.1\4Overloading.dll
+C:\Users\User\DNP3sem\3Session\4Overloading\bin\Debug\netcoreapp2.1\4Overloading.pdb
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.dll
+C:\Users\User\DNP3sem\3Session\4Overloading\obj\Debug\netcoreapp2.1\4Overloading.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\2Session\6Indexers\bin\Debug\netcoreapp2.1\6Indexers.deps.json
+C:\Users\User\DNP3sem\2Session\6Indexers\bin\Debug\netcoreapp2.1\6Indexers.runtimeconfig.json
+C:\Users\User\DNP3sem\2Session\6Indexers\bin\Debug\netcoreapp2.1\6Indexers.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\2Session\6Indexers\bin\Debug\netcoreapp2.1\6Indexers.dll
+C:\Users\User\DNP3sem\2Session\6Indexers\bin\Debug\netcoreapp2.1\6Indexers.pdb
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.AssemblyInfo.cs
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.dll
+C:\Users\User\DNP3sem\2Session\6Indexers\obj\Debug\netcoreapp2.1\6Indexers.pdb

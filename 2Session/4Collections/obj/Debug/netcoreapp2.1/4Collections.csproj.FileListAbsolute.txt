@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.AssemblyInfo.cs
+C:\Users\User\DNP3sem\2Session\4Collections\bin\Debug\netcoreapp2.1\4Collections.deps.json
+C:\Users\User\DNP3sem\2Session\4Collections\bin\Debug\netcoreapp2.1\4Collections.runtimeconfig.json
+C:\Users\User\DNP3sem\2Session\4Collections\bin\Debug\netcoreapp2.1\4Collections.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\2Session\4Collections\bin\Debug\netcoreapp2.1\4Collections.dll
+C:\Users\User\DNP3sem\2Session\4Collections\bin\Debug\netcoreapp2.1\4Collections.pdb
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.dll
+C:\Users\User\DNP3sem\2Session\4Collections\obj\Debug\netcoreapp2.1\4Collections.pdb

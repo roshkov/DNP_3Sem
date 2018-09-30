@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.AssemblyInfo.cs
+C:\Users\User\DNP3sem\2Session\1StudentInher\bin\Debug\netcoreapp2.1\1StudentInher.deps.json
+C:\Users\User\DNP3sem\2Session\1StudentInher\bin\Debug\netcoreapp2.1\1StudentInher.runtimeconfig.json
+C:\Users\User\DNP3sem\2Session\1StudentInher\bin\Debug\netcoreapp2.1\1StudentInher.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\2Session\1StudentInher\bin\Debug\netcoreapp2.1\1StudentInher.dll
+C:\Users\User\DNP3sem\2Session\1StudentInher\bin\Debug\netcoreapp2.1\1StudentInher.pdb
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.dll
+C:\Users\User\DNP3sem\2Session\1StudentInher\obj\Debug\netcoreapp2.1\1StudentInher.pdb

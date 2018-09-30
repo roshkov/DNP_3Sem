@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\3Session\9Lambda\bin\Debug\netcoreapp2.1\9Lambda.deps.json
+C:\Users\User\DNP3sem\3Session\9Lambda\bin\Debug\netcoreapp2.1\9Lambda.runtimeconfig.json
+C:\Users\User\DNP3sem\3Session\9Lambda\bin\Debug\netcoreapp2.1\9Lambda.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\3Session\9Lambda\bin\Debug\netcoreapp2.1\9Lambda.dll
+C:\Users\User\DNP3sem\3Session\9Lambda\bin\Debug\netcoreapp2.1\9Lambda.pdb
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.AssemblyInfo.cs
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.dll
+C:\Users\User\DNP3sem\3Session\9Lambda\obj\Debug\netcoreapp2.1\9Lambda.pdb

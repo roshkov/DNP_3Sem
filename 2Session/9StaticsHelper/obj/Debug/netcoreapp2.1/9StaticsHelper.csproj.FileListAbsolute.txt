@@ -1,0 +1,11 @@
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\bin\Debug\netcoreapp2.1\9StaticsHelper.deps.json
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\bin\Debug\netcoreapp2.1\9StaticsHelper.runtimeconfig.json
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\bin\Debug\netcoreapp2.1\9StaticsHelper.runtimeconfig.dev.json
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\bin\Debug\netcoreapp2.1\9StaticsHelper.dll
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\bin\Debug\netcoreapp2.1\9StaticsHelper.pdb
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.csprojAssemblyReference.cache
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.AssemblyInfoInputs.cache
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.AssemblyInfo.cs
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.dll
+C:\Users\User\DNP3sem\2Session\9StaticsHelper\obj\Debug\netcoreapp2.1\9StaticsHelper.pdb
